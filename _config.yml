@@ -126,7 +126,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/engineer_milky?igsh=MThrNjI4MW1nNXNxbQ%3D%3D&utm_source=qr"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-fw fa-LinkedIn"
       url: "https://github.com/milky0624"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
