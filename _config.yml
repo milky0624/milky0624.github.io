@@ -135,7 +135,7 @@ author:
 # Site Footer
 footer:
   links:
-    - 
+    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:rlawlsdud0624011129@gmail.com"
     - label: "Instagram"
